@@ -1,0 +1,15 @@
+{
+  "name": "angecode",
+  "displayName": "AngeCode",
+  "description": "The greatest extension of all time",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.102.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "publisher.extensionName"
+  ]
+}
