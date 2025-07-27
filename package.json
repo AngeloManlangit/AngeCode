@@ -7,9 +7,16 @@
     "vscode": "^1.102.0"
   },
   "categories": [
-    "Extension Packs"
+    "Themes",
+    "Snippets"
   ],
-  "extensionPack": [ 
-    "publisher.extensionName"
-  ]
+  "contributes": {
+    "themes": [
+      {
+        "label": "AngeCode Color Default",
+        "uiTheme": "vs-dark",
+        "path": "./themes/AngeCode-color-default.json"
+      }
+    ]
+  }
 }
