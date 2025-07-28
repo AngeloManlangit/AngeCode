@@ -16,6 +16,11 @@
         "label": "AngeCode Color Default",
         "uiTheme": "vs-dark",
         "path": "./themes/AngeCode-color-default.json"
+      },
+      {
+        "label": "AngeCode Color Golly Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/AngeCode-color-golly-green.json"
       }
     ]
   }
