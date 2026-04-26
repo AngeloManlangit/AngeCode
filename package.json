@@ -2,14 +2,20 @@
   "name": "angecode",
   "displayName": "AngeCode",
   "description": "The greatest extension of all time",
+  "publisher": "Gr8estExtensions",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.102.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AngeloManlangit/AngeCode.git"
   },
   "categories": [
     "Themes",
     "Snippets"
   ],
+  "icon": "logo.ico",
   "contributes": {
     "themes": [
       {
@@ -23,5 +29,8 @@
         "path": "./themes/AngeCode-color-golly-green.json"
       }
     ]
+  },
+  "dependencies": {
+    "@vscode/vsce": "^3.9.1"
   }
 }
