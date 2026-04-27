@@ -12,10 +12,9 @@
     "url": "https://github.com/AngeloManlangit/AngeCode.git"
   },
   "categories": [
-    "Themes",
-    "Snippets"
+    "Themes"
   ],
-  "icon": "logo.ico",
+  "icon": "logo.png",
   "contributes": {
     "themes": [
       {
